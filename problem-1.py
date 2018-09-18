@@ -1,3 +1,5 @@
+# https://www.hackerrank.com/contests/projecteuler/challenges/euler001
+
 def sum(n):
     return (n * (n + 1)) // 2
 
